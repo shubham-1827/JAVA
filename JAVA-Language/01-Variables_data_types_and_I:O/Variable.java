@@ -90,6 +90,6 @@ class Variable {
       	//nexrInt(), nextFloat() .... etc.
 
     /* constants variables are variables whose values are fixed throughout the execution of program */
-			final float pi = 3.14;
+			final float pi = 3.14f;
   }
 }

@@ -12,7 +12,7 @@ class Loops {
             statements ....
           }
         
-        2. while loop:x
+        2. while loop:
 
         	initialization;
           while(condition) {

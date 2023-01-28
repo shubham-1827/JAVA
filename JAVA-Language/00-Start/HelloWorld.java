@@ -7,7 +7,7 @@ Program execution in java:
 	jdk has the compiler which convert the source code(.java) into byte code(.class).
 
 2. Execution:
-	jvm will conver the byte code(.class) into native code which them runned to give the output.
+	jvm will convert the byte code(.class) into native code which them runned to give the output.
 */
 
 class HelloWorld {
